@@ -100,7 +100,7 @@ static const char *colorname[] = {
     [1] = "#ff6c6b", // dark red
     [2] = "#98be65", // dark green
     [3] = "#DA8548", // dark orange
-    [4] = "#51afef", // dark blue
+    [4] = "#2257a0", // dark blue
     [5] = "#c678dd", // dark magenta
     [6] = "#5699AF", // dark cyan 
     [7] = "#202328", // grey   
@@ -109,7 +109,7 @@ static const char *colorname[] = {
     [9] = "#ff6c6b", // red
     [10] = "#98be65", // green
     [11] = "#ECBE7B", // orange
-    [12] = "#51afef", // blue
+    [12] = "#2257a0", // blue
     [13] = "#c678dd", // magenta
     [14] = "#5699af", // cyan
     [15] = "#DFDFDF", // white
@@ -118,7 +118,7 @@ static const char *colorname[] = {
     [18] = "#210000", // dark dark red
     [19] = "#171600", // dark dark yellow
    
-    [256] = "#21242b",  // , Background
+    [256] = "#282c34",  // , Background
     [257] = "#bbc2cf" // 7 , Foreground
 
 };
