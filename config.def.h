@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Hack:pixelsize=14:antialias=true:autohint=true";
-static int borderpx = 16;
+static int borderpx = 17;
 
 /*
  * What program is execed by st depends of these precedence rules:
