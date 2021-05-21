@@ -1,6 +1,6 @@
 # My build of simple terminal - from *suckless.org*
+## I dont use this anymore i patch with savedconfig useflag in gentoo
 
-Changed to urxtv
 
 
 _______________________________________________________
